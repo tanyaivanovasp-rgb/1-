@@ -1,0 +1,6 @@
+# Тестовый скрипт
+ls
+cd documents
+ls
+cat notes.txt
+find
